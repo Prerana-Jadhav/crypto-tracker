@@ -37,7 +37,7 @@ We use Material-UI's `makeStyles` hook to create custom styles for our component
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Prerana-Jadhav/react-crypto-tracker-master.git
+    git clone https://github.com/Prerana-Jadhav/crypto-tracker.git
     ```
 2. Navigate to the project directory:
     ```bash

@@ -7,7 +7,7 @@
 
 2. Clone the repository:
     ```bash
-    git clone https://github.com/Prerana-Jadhav/react-crypto-tracker-master.git
+    git clone https://github.com/Prerana-Jadhav/crypto-tracker.git
     ```
 
 3. Navigate to the project directory:
